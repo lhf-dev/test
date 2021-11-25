@@ -1,0 +1,5 @@
+tasks:
+  - init: |
+      echo 'go init'
+    command: |
+      echo 'go build'
